@@ -31,5 +31,5 @@ O sistema permite o cadastro de usuários, recursos (ex: salas, mesas, quartos) 
 
 1. **Clonar o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/sistema-reservas.git
+   git clone https://github.com/Macelo2266/sistema-reservas.git
    cd sistema-reservas
